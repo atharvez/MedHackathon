@@ -1,40 +1,42 @@
-<<<<<<< HEAD
-# ProjectX
-=======
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+﻿# MedHackathon ðŸ¥ðŸ’¡
+
+A healthcare-focused hackathon project â€” AI-powered medical tools for improved patient outcomes.
+
+**Live Demo:** [project-x1-two.vercel.app](https://project-x1-two.vercel.app)
+
+> **Note:** This repo is a fork extended during the hackathon.
+
+## Overview
+
+Built during a hackathon focused on healthcare innovation, this project leverages AI/ML to solve real medical challenges â€” from symptom analysis to treatment recommendation support.
+
+## Features
+
+- ðŸ©º **Symptom Analyzer** â€” AI-powered symptom-to-condition matching
+- ðŸ“‹ **Patient Dashboard** â€” Overview of health metrics and history
+- ðŸ’Š **Medication Tracker** â€” Reminders and interaction warnings
+- ðŸ”¬ **Report Interpretation** â€” Plain-language explanations of lab results
+- ðŸš‘ **Emergency Guidance** â€” Triage assistance for non-critical situations
+
+## Tech Stack
+
+- **Frontend:** Next.js / React, TypeScript, Tailwind CSS
+- **AI:** OpenAI / Google Gemini API
+- **Deployment:** Vercel
 
 ## Getting Started
 
-First, run the development server:
-
 ```bash
+git clone https://github.com/atharvez/MedHackathon.git
+cd MedHackathon
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Hackathon
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Built at a healthcare innovation hackathon. Focus: practical AI applications for medical support.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Author
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
->>>>>>> 9d1ff32 (Initial Commit)
+Forked and extended by [Atharva Desai](https://github.com/atharvez)
