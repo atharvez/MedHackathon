@@ -1,28 +1,28 @@
-﻿# MedHackathon ðŸ¥ðŸ’¡
+# MedHackathon
 
-A healthcare-focused hackathon project â€” AI-powered medical tools for improved patient outcomes.
+A healthcare-focused hackathon project -- AI-powered medical tools for improved patient outcomes.
 
-**Live Demo:** [project-x1-two.vercel.app](https://project-x1-two.vercel.app)
+**Live:** [project-x1-two.vercel.app](https://project-x1-two.vercel.app)
 
-> **Note:** This repo is a fork extended during the hackathon.
+> Fork extended during the hackathon.
 
 ## Overview
 
-Built during a hackathon focused on healthcare innovation, this project leverages AI/ML to solve real medical challenges â€” from symptom analysis to treatment recommendation support.
+Built during a hackathon focused on healthcare innovation. Leverages AI/ML to solve real medical challenges -- from symptom analysis to treatment recommendation support.
 
 ## Features
 
-- ðŸ©º **Symptom Analyzer** â€” AI-powered symptom-to-condition matching
-- ðŸ“‹ **Patient Dashboard** â€” Overview of health metrics and history
-- ðŸ’Š **Medication Tracker** â€” Reminders and interaction warnings
-- ðŸ”¬ **Report Interpretation** â€” Plain-language explanations of lab results
-- ðŸš‘ **Emergency Guidance** â€” Triage assistance for non-critical situations
+- Symptom analyzer -- AI-powered symptom-to-condition matching
+- Patient dashboard -- overview of health metrics and history
+- Medication tracker -- reminders and interaction warnings
+- Report interpretation -- plain-language explanations of lab results
+- Emergency guidance -- triage assistance for non-critical situations
 
 ## Tech Stack
 
-- **Frontend:** Next.js / React, TypeScript, Tailwind CSS
-- **AI:** OpenAI / Google Gemini API
-- **Deployment:** Vercel
+- Frontend: Next.js / React, TypeScript, Tailwind CSS
+- AI: Google Gemini API
+- Deployment: Vercel
 
 ## Getting Started
 
@@ -33,10 +33,6 @@ npm install
 npm run dev
 ```
 
-## Hackathon
-
-Built at a healthcare innovation hackathon. Focus: practical AI applications for medical support.
-
 ## Author
 
-Forked and extended by [Atharva Desai](https://github.com/atharvez)
+Forked and extended by Atharva Desai
